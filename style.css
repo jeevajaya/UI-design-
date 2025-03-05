@@ -1,0 +1,238 @@
+@import url('https://fonts.googleapis.com/css2?family=poppins&display=swap');
+*{
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-feature-settings: normal;
+    background-color: black;
+}
+header {
+    height: 800px;
+    background-color: black;
+ }
+.head{
+    background-color: black;
+    font-family: "Roboto Condensed", serif;
+ }
+.head1{
+    margin: 25px 50px;
+    height: 750px;
+    background-color: #fcfcdc;
+ }
+.btn{
+    background-color: transparent;
+    border: transparent;
+    color: orangered;
+    margin-left: 10px;
+    margin-top: 10px;
+ }
+.btn1{
+    color: orangered;
+    background-color: transparent;
+    border: transparent;
+    margin-left: 180px;
+}
+.btn2{
+    color: orangered;
+    background-color: transparent;
+    border: transparent;
+    margin-left: 25px;
+}
+.btn3{
+    color: orangered;
+    background-color: transparent;
+    border: transparent;
+    margin-left: 25px;
+}
+
+.img{
+    margin-left: 34px;
+    margin-top: 10%;
+    height: 130px;
+    width: 155px;
+    background-image: url(focus.jpg);
+    background-size: cover;
+    background-position: center
+ }
+.nun{
+    margin-top: -11%;
+    margin-left: 46%;
+    display: flex;
+    color: orangered;
+    background-color: transparent;
+ }
+.one{
+   font-weight: 800;
+   background-color: transparent;
+ }
+.two{
+   margin-left: 22px;
+   background-color: transparent;
+   border-style: solid; 
+   border-radius: 50%; 
+   font-size: 16px
+ }
+.three{
+   margin-top: 11%; 
+   font-family: bold; 
+   margin-left: 33px;
+   color: orangered; 
+   background-color: transparent;
+ }
+.four{
+   margin-top: 10px; 
+   margin-left: 33px;
+   font-size: 10px; 
+   background-color: transparent; 
+   color: orangered;
+ }
+.head2{
+    margin-top: -391px;
+    margin-left: 55%;
+    width: 45%;
+    height: 464px;
+    background-color: orangered;
+    border-bottom-left-radius: 40px;
+    position: static;
+ }
+.R{
+   background-color: transparent;
+   position: absolute;
+   margin-left: 65%;
+   font-size: 565px;
+   color: #fcfcdc;
+   margin-top: -13%;
+}
+.five{
+   background-color: transparent; 
+   color: orangered; 
+   margin-left: 42%; 
+   margin-top: -8%;
+ }
+.six{
+   background-color: transparent; 
+   margin-left: 30px;
+ }
+.butn{
+    text-align: left;
+    width: 143px;
+    margin-top: 4px;
+    margin-left: 42%;
+    line-height: 1.5;
+    font-size: 11px;
+    color: #fcfcdc;
+    background-color: orangered;
+    border-radius: 20px;    
+    border-width: 10px;
+    border-color: transparent;
+ }
+.rt{
+   background-color: #fcfcdc; 
+   color: orangered; 
+   font-size: 18px; 
+   border-radius: 50%; 
+   margin-left: 10px;
+   width: 25px; 
+   height: 25px;
+ }
+.r{
+   font-size: 30px; 
+   background-color: transparent; 
+   color: orangered; 
+   margin-left: 33px; 
+   margin-top: -6%
+ }
+.saven{
+   margin-top: 10px; 
+   margin-left: 33px;
+   font-size: 10px; 
+   background-color: transparent; 
+   color: orangered;
+ }
+.line{
+   color: orangered; 
+   background-color:transparent; 
+   margin-top: 5%; 
+   margin-left: 33px; 
+   font-size: 14px
+ }
+.line2{
+   color: orangered; 
+   background-color:transparent;
+   font-family: -webkit-body; 
+   font-size: 193px; 
+   margin-left: 2%; 
+   margin-top: -3%;
+ }
+.head3{
+   margin-top: -16%;
+   margin-left: 56%;
+   position: static;
+   width: 44%;
+   height: 163px;
+   background-color: orangered;
+ }
+.head4{
+   width: 37%;
+   height: 600px;
+   background-color: #fcfcdc;
+   border-radius: 12px;
+   position: absolute;
+   top: 97px;
+   left: 57%;
+   background-image: url(one.jpg);
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   justify-content: center;
+   animation: change 10s infinite ease-in-out;
+}
+@keyframes change{
+   0%
+   {
+      background-image: url(two.jpg);
+   }
+   20%
+   {
+      background-image: url(three.jpg);
+   }
+   40%
+   {
+      background-image: url(four.jpg);
+   }
+}
+.lin1{
+   background-color: transparent;
+   color: orangered;
+   font-size: 21px;
+   text-align: center;
+}
+.lin2{
+   background-color: transparent;
+   color: orangered;
+   text-align: center;
+   font-size: 21px;
+}
+.ano{
+   align-items: center;
+   background-color: transparent;
+   color: orangered;
+   position: absolute;
+   margin-left: 39%;
+   margin-top: -53%;
+   font-size: 30px;
+}
+.lin3{
+   background-color: transparent;
+   color: orangered;
+   writing-mode: sideways-lr;
+   font-size: large;
+}
+.lin4{
+   background-color: transparent;
+    color: orangered;
+    writing-mode: sideways-rl;
+    font-size: large;
+    margin-left: 95%;
+    margin-top: -123%;
+}
