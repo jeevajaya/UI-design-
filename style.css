@@ -217,13 +217,14 @@ header {
    font-size: 21px;
 }
 .ano{
-   align-items: center;
-   background-color: transparent;
-   color: orangered;
-   position: absolute;
-   margin-left: 39%;
-   margin-top: -53%;
-   font-size: 30px;
+   font-family: "Sigmar One", sans-serif;
+    align-items: center;
+    background-color: transparent;
+    color: orangered;
+    position: absolute;
+    margin-left: 37%;
+    margin-top: -55%;
+    font-size: 28px;
 }
 .lin3{
    background-color: transparent;
