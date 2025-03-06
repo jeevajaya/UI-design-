@@ -96,10 +96,11 @@ header {
     position: static;
  }
 .R{
+   font-family: "Sigmar One", sans-serif;
    background-color: transparent;
    position: absolute;
-   margin-left: 65%;
-   font-size: 565px;
+   margin-left: 68%;
+   font-size: 281px;
    color: #fcfcdc;
    margin-top: -13%;
 }
@@ -136,11 +137,12 @@ header {
    height: 25px;
  }
 .r{
-   font-size: 30px; 
-   background-color: transparent; 
-   color: orangered; 
-   margin-left: 33px; 
-   margin-top: -6%
+   font-family: "Sigmar One", sans-serif;
+    font-size: 23px;
+    background-color: transparent;
+    color: orangered;
+    margin-left: 33px;
+    margin-top: -6%;
  }
 .saven{
    margin-top: 10px; 
@@ -159,10 +161,11 @@ header {
 .line2{
    color: orangered; 
    background-color:transparent;
-   font-family: -webkit-body; 
-   font-size: 193px; 
+   font-family: "Sigmar One", sans-serif; 
+   font-style: normal;
+   font-size: 150px; 
    margin-left: 2%; 
-   margin-top: -3%;
+   margin-top: -5%;
  }
 .head3{
    margin-top: -16%;
