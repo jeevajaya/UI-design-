@@ -232,6 +232,28 @@ header {
    writing-mode: sideways-lr;
    font-size: large;
 }
+.button1{
+   margin-left: 19%;
+   margin-top: 20%;
+   background-color: #fcfcdc;
+   color: orangered;
+   border: transparent;
+   border-radius: 10px;
+   font-size: 9px;
+   height: 25px;
+   width: 143px;
+}
+.button2{
+   margin-left: 1%;
+   margin-top: 20%;
+   background-color: #fcfcdc;
+   color: orangered;
+   border: transparent;
+   border-radius: 10px;
+   font-size: 9px;
+   height: 25px;
+   width: 165px;
+}
 .lin4{
    background-color: transparent;
     color: orangered;
